@@ -1,0 +1,109 @@
+div.container{
+	margin-right: 150px;
+	margin-left:150px;
+}
+div.header{
+	height:95px;
+	background-color: rosybrown;
+}
+h3{
+	text-align: 
+}
+div.nav{
+	clear:both;
+	height:60px;
+	margin-right:120px;
+	margin-left:120px;
+	margin-top:20px;
+	margin-bottom: 20px;
+}
+div.nav li{
+	color:white;
+	list-style: none;
+}
+.menu1{
+	float:left;
+	width:200px;
+	height:100%;
+	background-color: gray;
+}
+.menu2{
+	float:left;
+	width:250px;
+	height:100%;
+	background-color:gray;
+	margin-left:75px;
+}
+.menu3{
+	float:right;
+	background-color: gray;
+	height:100%;
+	width:200px;
+}
+div.banner{
+	clear:both;
+	background-color: peru;
+	height:140px;
+	margin-bottom:20px;
+}
+div.pagebody{
+	height:650px;
+}
+.left{
+	float:left;
+	height:100%;
+	width:70%;
+}
+.top{
+	height:49%;
+	width:100%;
+    background-color: tan;;
+}
+.bottom{
+	height:49%;
+	width:100%;
+	background-color: teal;
+	margin-top:13px;
+}
+.right{
+	float:right;
+	height:100%;
+	width:28%;
+	background:bisque;
+	margin-left: 20px;
+}
+.icon{
+	clear:both;
+	margin-top: 20px;
+	height:100px;
+	background-color:purple;
+}
+div.more{
+	height:500px;
+	margin-top:20px;
+}
+.more1{
+	height:100%;
+	width:32%;
+	float:left;
+	background-color: lavender;
+}
+.more2{
+	height:100%;
+	width:32%;
+	float:left;
+	background-color: sandybrown;
+	margin-left:20px;
+}
+.more3{
+	height:100%;
+	width:32%;
+	background-color:blue;
+	float:right;
+}
+.footer{
+	clear:both;
+	margin-top:35px;
+	background-color:brown;
+	height:120px;
+}
